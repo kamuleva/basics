@@ -5,3 +5,4 @@ def fin(n):
         print(a)
 print("please write no of digit for fabonacci series:")
 fin(int(input()))
+print("Completed")
